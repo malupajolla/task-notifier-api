@@ -1,0 +1,12 @@
+[theme]
+# Cor de fundo principal da tela
+backgroundColor = "#1E222B"
+
+# Cor de fundo dos inputs, caixas e expanders
+secondaryBackgroundColor = "#282C34"
+
+# Cor dos textos principais
+textColor = "#F8F9FA"
+
+# Cor dos botões principais (o botão "Concluir")
+primaryColor = "#4F8BF9"

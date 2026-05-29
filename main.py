@@ -21,7 +21,7 @@ async def criar_tarefa(titulo: str, destinatario: str, db: Session = Depends(dat
     except Exception as e:
         print(f"Erro ao enviar Telegram: {e}")
         
-    return nova_tarefa
+    return nova_tarefa 
 
 
 @app.get("/tasks/")
